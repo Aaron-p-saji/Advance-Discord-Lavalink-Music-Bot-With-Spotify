@@ -1,8 +1,8 @@
 {
-  "token" : "YOUR_BOT_TOKEN",
-   "prefix": "YOUR_BOT_PREFIX",
+  "token" : "ODcxNzAxNDE0NjA5NTcxODkw.YQfJNA.xPacdxlnU12ExATDvRWckS2IwXs",
+   "prefix": "m!",
    "ownerIDS": [
-      "OWNER_IDS"
+      "772856226857353236"
    ],
    "clientsettings": {
       "nodes": [
